@@ -7,7 +7,8 @@ ThisProgram
 	|__ChatMoudle
 		|__Screenshot		
 		|__ChatMan
-	|__BrowseMoudle
+	|__PurchaseMoudle
+		|__BrowseMoudle
 		|__KeyboardEmulator
 		|__BrowseMan
 	|__TaskMoudle
