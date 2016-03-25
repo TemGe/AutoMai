@@ -8,10 +8,8 @@ ThisProgram
 		|__Screenshot		
 		|__ChatMan
 	|__BrowseMoudle
-
 		|__KeyboardEmulator
-		|__
-BrowseMan
+		|__BrowseMan
 	|__TaskAnalysisMoudle
 		|__NatureLanguageAnalysor
 			|__TaskGain
