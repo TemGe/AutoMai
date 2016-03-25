@@ -1,11 +1,41 @@
-											Design Manual
-	This document can help to have an intimate knowledge of this program.
+			Design Manual
 	
-	|__ChatMoudle<聊天模块>
-			|__Screenshot<截图>
-			|__ChatContentReader
+This document can help to have an intimate knowledge of this program.
+
+		Program Moudle
+ThisProgram
+	|__ChatMoudle
+		|__Screenshot		
+		|__ChatMan
 	|__BrowseMoudle
-			|_
-			|_
-	|__TaskAnalysis 
-			|__NatureLanguageAnalysor
+
+		|__KeyboardEmulator
+		|__
+BrowseMan
+	|__TaskAnalysisMoudle
+		|__NatureLanguageAnalysor
+			|__TaskGain
+			|__NatureLanguageAnalysis
+		|__TaskMan
+	|__LogMoudle
+
+			GUI
+To be continued
+
+
+
+___________________________________________________________________________________________
+			设计手册
+ThisProgram
+	|__ChatMoudle<聊天>
+		|__Screenshot<截图>
+		|__ChatMan<聊天管理器>
+	|__BrowseMoudle<浏览模块>
+		|__KeyboardEmulator<键盘模拟>
+		|__BrowseMan<浏览组织及管理器>
+	|__TaskAnalysisMoudle<任务解析模块>	
+		|__NatureLanguageAnalysor<自然语言解析器>
+			|__TaskGain<任务获取>
+			|__NatureLanguageAnalysis<自然语言解析>
+		|__TaskMan<任务管理者>
+	|__LogMoudle<日志模块>	
