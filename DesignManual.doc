@@ -30,7 +30,7 @@ ThisProgram
 		|__ChatMan<聊天管理器>
 	|__BrowseMoudle<浏览模块>
 		|__KeyboardEmulator<键盘模拟>
-		|__BrowseMan<浏览组织及管理器>
+		|__BrowseMan<浏览管理器>
 	|__TaskAnalysisMoudle<任务解析模块>	
 		|__NatureLanguageAnalysor<自然语言解析器>
 			|__TaskGain<任务获取>
