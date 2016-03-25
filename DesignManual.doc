@@ -1,0 +1,11 @@
+											Design Manual
+	This document can help to have an intimate knowledge of this program.
+	
+	|__ChatMoudle<聊天模块>
+			|__Screenshot<截图>
+			|__ChatContentReader
+	|__BrowseMoudle
+			|_
+			|_
+	|__TaskAnalysis 
+			|__NatureLanguageAnalysor
