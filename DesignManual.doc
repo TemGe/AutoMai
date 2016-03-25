@@ -8,9 +8,10 @@ ThisProgram
 		|__Screenshot		
 		|__ChatMan
 	|__PurchaseMoudle
-		|__BrowseMoudle
-		|__KeyboardEmulator
-		|__BrowseMan
+		|__Browse
+			|__KeyboardEmulator
+			|__BrowseMan
+		|__Purchase
 	|__TaskMoudle
 		|__NatureLanguageAnalysor
 			|__TaskGain
@@ -29,9 +30,11 @@ ThisProgram
 	|__ChatMoudle<聊天>
 		|__Screenshot<截图>
 		|__ChatMan<聊天管理器>
-	|__BrowseMoudle<浏览模块>
-		|__KeyboardEmulator<键盘模拟>
-		|__BrowseMan<浏览管理器>
+	|__PurchaseMoudle
+		|__Browse<浏览>
+			|__KeyboardEmulator<键盘模拟>
+			|__BrowseMan<浏览管理器>\
+		|__Purchase<购买>
 	|__TaskMoudle<任务模块>	
 		|__NatureLanguageAnalysor<自然语言解析器>
 			|__TaskGain<任务获取>
